@@ -1,2 +1,0 @@
-# popit.github.io
-Popit
